@@ -1,3 +1,3 @@
 WanderLust is a MERN travel blog website 🚀
 
-https://wanderust-procject1.onrender.com/listings
+https://project-wanderlust-1-qe20.onrender.com/listings
